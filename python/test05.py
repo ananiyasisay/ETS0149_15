@@ -7,5 +7,5 @@ text1 ="mmmmi Love You"
 print(text1.strip("m"))
 
 text2 ="mmmmi Love you    mmmmm"
-print(text2.mstrip(''))
+print(text2.lstrip('m'))
 
